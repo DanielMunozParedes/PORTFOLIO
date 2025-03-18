@@ -1,10 +1,11 @@
 # 🏆 **Technical Portfolio – Daniel Muñoz Paredes**  
 
-👋 About Me
+#👋 **About Me**
+---
 I’m a **Systems Engineer** passionate about **Linux, cybersecurity, and network defense** . I love exploring ethical hacking, automation, and system security, and I’m constantly learning to improve my skills in cybersecurity, penetration testing, and infrastructure protection
 
 While I have experience in **data analytics and IoT (LoRaWAN)**, my main passion lies in **security, Linux administration, and network defense**.  
-
+---
 💡 **Primary Focus Areas:**  
 - 🛡️ **Linux & Cybersecurity** | System administration, security hardening, and ethical hacking.  
 - 🌐 **Networking & System Defense** | Network security, monitoring, and infrastructure protection.  
