@@ -46,8 +46,24 @@ Syslog, Logstash, PCAPs, JSON Logs
 VirtualBox, GitHub, VS Code, GitHub Pages
 
 ---
+Besides I have some projects in other areas of IT, that in the present are not my focus but I should say they involved many days of my life so itd be foolish not to show and demostrate my skylls on those topics like ,as i said, arent my main focus but i can perform on those areas if needed.
 
+## Data Analytics & Business Intelligence
+[🔗 View Projects](https://github.com/DanielMunozParedes/DATA-ANALYTICS)  
+✅ Proficiency in **SQL, Python, and data visualization tools**.  
+✅ **Power BI and analytics for business intelligence applications**.  
 
+## IoT & LoRaWAN Solutions 
+[🔗 View Projects](https://github.com/DanielMunozParedes/LORA)  
+✅ **Implementation of LoRaWAN networks and IoT device communication**.  
+✅ **Automation and remote monitoring** solutions.  
+
+## Programming 
+[🔗 View Projects](https://github.com/DanielMunozParedes/PROGRAMMING)  
+✅ **Python and C#** development, focusing on **automation and backend scripting**.  
+✅ Experience with **data structures and algorithm optimization**.  
+
+---
 ## 🏷️ Keywords
 `Cybersecurity Labs` · `Threat Detection` · `Log Analysis` · `Blue Team` · `Red Team` · `CTFs` · `SIEM` · `Scripting` · `Portfolio Projects`
 
