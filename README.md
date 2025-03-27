@@ -26,7 +26,7 @@ I am currently exploring the intersection of:
 
 | Project | Description | Domain |
 |---------|-------------|--------|
-| [network-defense-lab](https://github.com/daniel/network-defense-lab) | Simulates port scans, brute force, and network anomalies. Detects and analyzes logs with custom rules. | Blue Team |
+| [network-defense-lab](https://github.com/DanielMunozParedes/network-defense-lab) | Simulates port scans, brute force, and network anomalies. Detects and analyzes logs with custom rules. | Blue Team |
 | [windows-threat-lab](https://github.com/daniel/windows-threat-lab) | Investigates Windows Event Logs, simulates privilege abuse, and applies response workflows. | Blue Team |
 | [offensive-recon-lab](https://github.com/daniel/offensive-recon-lab) | Conducts reconnaissance on a mock target. Includes mapping, enumeration, and reporting. | Red Team |
 | [privilege-escalation-lab](https://github.com/daniel/privilege-escalation-lab) | Analyzes misconfigurations on Linux and Windows to gain unauthorized privileges. | Red Team |
