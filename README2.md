@@ -64,6 +64,12 @@ Besides I have some projects in other areas of IT, that in the present are not m
 ✅ Experience with **data structures and algorithm optimization**.  
 
 ---
+
+##  Contact  
+💼 [LinkedIn](https://www.linkedin.com/in/daniel-mu%C3%B1oz-paredes-5a6a02234/)  
+📧 [Email](mailto:danielmunozparedes@gmail.com)  
+
+---
 ## 🏷️ Keywords
 `Cybersecurity Labs` · `Threat Detection` · `Log Analysis` · `Blue Team` · `Red Team` · `CTFs` · `SIEM` · `Scripting` · `Portfolio Projects`
 
