@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-This objective of this portfolio is to show a collection of labs,projects and/or tutorials in multiple IT fileds of my interes such as: Linux Administration; Networking and monitoring NOC and SOC.
+This objective of this portfolio is to show a collection of labs,projects and/or tutorials in multiple IT fileds of my interes such as: Linux Administration, Networking, NOC and SOC.
 
 Each project is designed as a realistic, hands-on lab simulating real-world scenarios in: security, network analysis, threat detection, and offensive tactics. 
 All work is (ethical ,academic and learning focus) built in personal lab environments, and documented to reflect technical depth and problem-solving ability.
