@@ -20,7 +20,7 @@ I build labs to solve real problems, simulate scenarios and understand the how-t
 |---------|-------------|
 | [Linux-Administration](https://github.com/DanielMunozParedes/LINUX-ADMIN/) | Internal networking basics. User management and permissions. System services and automation. Monitoring. Hardening and vulnerability. Tickets simulation.|
 | [Networking](https://github.com/daniel/windows-threat-lab) | Networking fundamentals. Switching and VLANs. Routing. Network Security. Network monitoring. Tickets simulation. | 
-| [NOC](https://github.com/daniel/offensive-recon-lab) | NOC setups. Using monitoring tools. Network avaibility and performance. Tickets simulation.  |
+| [NOC](https://github.com/DanielMunozParedes/NOC) | NOC setups. Using monitoring tools. Network avaibility and performance. Tickets simulation.  |
 | [SOC](https://github.com/daniel/privilege-escalation-lab) | Log analysis. SIEMs. Threat hunting. Incident detection and response. Tickets simulation| 
 | [Pentesting](https://github.com/daniel/python-alert-simulator) | (coming soon) | 
 | [writeups-ctfs](https://github.com/daniel/writeups-ctfs) | Writeups and reflections from Bandit, picoCTF, and other CTF platforms. | 
